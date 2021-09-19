@@ -19,7 +19,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Example
 
-'''latex
+'''LaTex
 \int_0^\infty \hat{f(\xi)}d\xi
 '''
 
