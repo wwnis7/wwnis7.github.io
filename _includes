@@ -1,3 +1,6 @@
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
  TeX: {
