@@ -20,9 +20,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Example
 
-```math
-\int_0^\infty \hat{f(\xi)}d\xi
-```
+
+$\int_0^\infty \hat{f(\xi)}d\xi$
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
